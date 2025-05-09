@@ -8,4 +8,4 @@ Performance</h3>
 </p>
 
 <h4>How to Reuse the Code:</h4>
-<p>The best way to reuse the code is to open <b>thesis.ipynb</b> in <b><i>Google Colab</i></b</p>
+<p>The best way to reuse the code is to open <b>thesis.ipynb</b> in <b><i>Google Colab.</i></b</p>
